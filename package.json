@@ -1,0 +1,16 @@
+{
+    "name": "asclepius-backend",
+    "version": "1.0.0",
+    "description": "Asclepius Backend API",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "multer": "^1.4.5",
+      "firebase-admin": "^11.0.1",
+      "@tensorflow/tfjs-node": "^3.21.1"
+    }
+  }
+  
